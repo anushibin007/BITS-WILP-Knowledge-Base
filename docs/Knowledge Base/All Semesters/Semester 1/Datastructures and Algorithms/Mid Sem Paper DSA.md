@@ -20,5 +20,22 @@
 ## Question 7
 ![[Pasted image 20220806143139.png]]
 
----
+# Questions asked in Regular Mid-Sem
+## Question 8
+![[index.jpg]]
+
+## Question 9
+![[index-1.jpg]]
+
+## Question 10
+![[index 1.jpg]]
+
+## Question 11
+![[index-1 1.jpg]]
+
+## Question 12
+![[index 2.jpg]]
+
+## Question 13
+![[index-1 2.jpg]]
 tags: [[!DatastructuresAndAlgorithmsIndex]] [[QuestionPapers]]
